@@ -34,6 +34,8 @@
 
 ---
 
+<div align="justify">
+
 ## 1. Inventario de Equipos
 
 A continuación, se detalla el equipo activo y pasivo seleccionado para la red:
